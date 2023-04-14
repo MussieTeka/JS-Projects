@@ -9,7 +9,8 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+  - [🛠 Projects](#projects)
+  - [ Built With](#built-with)
   - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
@@ -33,11 +34,18 @@
 
 This is a collection of JavaScript projects that I have previously worked on, and future projects will be added as directories in this repository.
 
+## 🛠 Projects <a name="projects"></a>
+
+Here's a list of the projects included in this repository:
+
+- pomodoro timer: A simple productivity tool that helps you focus on tasks by breaking your workday into 15-minute intervals separated by short breaks.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- Client: HTML, CSS, JavaScript
+`- Client: HTML, CSS, JavaScript
+
 - Server: Not applicable
 - Database: Not applicable
 
