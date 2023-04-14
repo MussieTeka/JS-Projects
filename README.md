@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="images/mussie.png" alt="logo" width="300px"  height="300px" />
+  <img src="mussie.png" alt="logo" width="300px"  height="300px" />
   <br/>
   <h3><b>JavaScript Projects</b></h3>
 </div>
