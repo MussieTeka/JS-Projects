@@ -7,14 +7,14 @@ let intervalId;
 
 // function that increments the seconds and minutes values by one every second
 function addSeconds() {
-  let seconds = parseInt(secondsInput.value);
-  let minutes = parseInt(minutesInput.value);
+  let seconds = parseInt(secondsInput.value, 10);
+  let minutes = parseInt(minutesInput.value, 10);
 
   if (seconds < 59) {
-    seconds++;
+    seconds += 1;
   } else {
     seconds = 0;
-    minutes++;
+    minutes += 1;
   }
 
   // pad the seconds and minutes values with a leading zero if necessary
@@ -40,7 +40,6 @@ function resetTimer() {
   minutesInput.value = '00';
 }
 
-// function that updates the timer settings by stopping the timer, resetting the timer, and starting the timer again
 function updateTimer() {
   stopTimer();
   resetTimer();
