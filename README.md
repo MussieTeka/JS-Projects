@@ -38,7 +38,7 @@ This is a collection of JavaScript projects that I have previously worked on, an
 
 Here's a list of the projects included in this repository:
 
-- pomodoro timer: A simple productivity tool that helps you focus on tasks by breaking your workday into 15-minute intervals separated by short breaks.
+- <a href="https://github.com/MussieTeka/JS-Projects/tree/main/pomodoro%20timer">Pomodoro Timer</a>: A simple productivity tool that helps you focus on tasks by breaking your workday into 15-minute intervals separated by short breaks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
